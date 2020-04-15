@@ -1,0 +1,24 @@
+matanhalfon, lioraryepaz
+===============================================================================
+Lior Paz, ID 206240996, lior.paz1@mail.huji.ac.il
+Matan Halfon, ID 205680648, matan.halfon@mail.huji.ac.il
+===============================================================================
+
+                           Project 3 - Sequential Chips
+                           ----------------------------
+  
+
+Submitted Files
+---------------
+README - This file.
+a/Bit.hdl - 1 bit register
+a/PC.hdl - 16-bit program counter
+a/RAM64.hdl - 16-bit / 64-register memory
+a/Register.hdl - 16-bit register
+b/RAM4K.hdl - 16-bit / 4096-register memory
+b/RAM16K.hdl - 16-bit / 16384-register memory
+b/RAM512.hdl - 16-bit / 512-register memory
+
+Remarks
+-------
+* Enjoyed to finally know how RAM works in real life - very enriching
